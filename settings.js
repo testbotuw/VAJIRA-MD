@@ -11,7 +11,7 @@ const FOOTERNAME = '> UW TECH SHOW BOT 2024';
 global.owner = process.env.OWNER_NUMBER  || '94758900210' ;  // ADD YOUR NUMBER WITHOUT +
     
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=iQMXVTaC#DV9vgYdi_myf60Vf9yDHz_wN_tYfw-ap-gk9WFCc1n0' ,
+SESSION_ID: process.env.SESSION_ID || 'VAJIRA-MD=fA9hkZrb#mdJAzeX4Sm8RIsG7TFqOgb5_WYrEZDRTgcEzM16Syt8' ,
 travaSend: process.env.TRAVA_SEND || '25' ,   
 MODERATORS : process.env.MODERATORS === undefined ? "94761192103,94722777000" : process.env.MODERATORS ,    
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1536': process.env.MAX_SIZE,/*add this in megabytes*/    
